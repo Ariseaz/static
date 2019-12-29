@@ -1,2 +1,2 @@
 # static
-udacity static web proj
+udacity static web project course 3
